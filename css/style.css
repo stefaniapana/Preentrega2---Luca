@@ -1,0 +1,43 @@
+.logo {
+width: 50px;  
+}
+.pb {
+    width: 950px;
+    height: 400px;
+
+}
+.tituloprin{
+
+text-align: center;
+}
+.titulosec{
+text-align: center;
+}
+.seg {
+    text-align: center;
+}
+.insta {
+    width: 50px
+}
+.tw {
+    width: 50px;
+}
+.yt {
+    width: 50px; }
+    .quiensoy {
+
+        width: 250px;
+    }
+    .quiensoy2{
+        width: 950px;
+        height: 300px;
+    }
+    .contact1 {
+        width: 500px;
+    }
+    .musica {
+        width: 200px;
+    }
+    .txms{
+        text-align: right;
+    }
